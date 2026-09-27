@@ -1,0 +1,225 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-09-26",
+  "title": "YouTube SEO Strategy for Sleep Content",
+  
+  "algorithm_2026": {
+    "overview": "YouTube algorithm is multiple recommendation engines across search, suggested, browse, Shorts, and notifications. Search algorithm matters most for sleep content.",
+    "key_factors": {
+      "title": "Primary keyword in first 30 characters. 50-60 chars total to avoid truncation on mobile.",
+      "thumbnail": "1280x720. High contrast, bold text, clear focal point. Single biggest lever on CTR.",
+      "description": "300-500 words. Front-load keywords. Include timestamps/chapters.",
+      "tags": "8-15 relevant tags. Secondary signal, not primary. Help algorithm categorize.",
+      "captions": "YouTube indexes transcript text. Review auto-generated captions for accuracy.",
+      "chapters": "Descriptive timestamps give algorithm additional keyword context.",
+      "ctr": "Healthy CTR is 4-9%. Below 2% means thumbnail/title needs rework."
+    },
+    "sleep_specific": {
+      "watch_time": "Sleep videos have extreme watch time (3-10 hours). This is the #1 signal.",
+      "completion_rate": "Low percentage but high absolute hours. 30% of 10 hours = 3 hours average.",
+      "repeat_views": "Sleep viewers return to same video nightly. Massive repeat view signal.",
+      "black_screen": "Reduces production cost, improves sleep quality, proven format."
+    }
+  },
+  
+  "title_strategy": {
+    "formula": "[Topic] to Fall Asleep To",
+    "examples": [
+      "Rain Sounds for Sleeping — 8 Hours of Gentle Rain",
+      "History to Sleep To — The Entire Story of Ancient Egypt",
+      "Video Game Lore to Fall Asleep To — Elder Scrolls",
+      "Buddhism to Sleep To — The Dhammapada Explained"
+    ],
+    "rules": [
+      "Front-load primary keyword in first 30 characters",
+      "Keep under 60 characters to avoid truncation",
+      "Include duration (8 Hours, 3 Hours, etc.)",
+      "Use 'to sleep to' or 'to fall asleep to' as suffix",
+      "Avoid 'NO ADS' in title (save for description)",
+      "Use power words: Gentle, Calm, Relaxing, Deep"
+    ],
+    "keyword_patterns": [
+      "[topic] to sleep to",
+      "[topic] to fall asleep to",
+      "[topic] for sleep",
+      "[topic] explained slowly",
+      "[topic] for deep sleep",
+      "[topic] bedtime stories",
+      "[topic] ambient for sleep",
+      "[sound] for sleeping",
+      "[sound] sounds for sleep",
+      "sleep [topic]"
+    ]
+  },
+  
+  "description_strategy": {
+    "structure": [
+      "Line 1-2: Hook + primary keyword (above fold)",
+      "Line 3-5: What the video contains",
+      "Line 6-10: Benefits (helps you sleep, relax, study)",
+      "Line 11-20: Timestamps/chapters",
+      "Line 21-30: Related videos and playlists",
+      "Line 31-40: Channel description + links",
+      "Line 41-50: Hashtags (3-5 max)"
+    ],
+    "keywords_to_include": [
+      "sleep",
+      "fall asleep",
+      "deep sleep",
+      "relaxation",
+      "meditation",
+      "ambient",
+      "sounds for sleep",
+      "bedtime",
+      "insomnia relief",
+      "calm"
+    ],
+    "hashtags": ["#sleep", "#fallasleep", "#relaxation", "#ambience", "#deeepsleep"]
+  },
+  
+  "thumbnail_strategy": {
+    "specs": {
+      "dimensions": "1280x720 pixels",
+      "format": "JPG or PNG",
+      "file_size": "Under 2MB"
+    },
+    "design_rules": [
+      "High contrast (dark background for sleep content)",
+      "Bold, readable text (3-5 words max)",
+      "Clear focal point (single image or symbol)",
+      "Consistent style across channel",
+      "No cluttered elements",
+      "Color palette per shelf (gold for spiritual, blue for mind, etc.)"
+    ],
+    "sleep_specific": [
+      "Dark backgrounds (black, navy, deep purple)",
+      "Soft, calming colors (muted tones)",
+      "Simple symbols (moon, stars, candle, rain)",
+      "Duration visible (3H, 8H, etc.)",
+      "No faces (faceless format)"
+    ],
+    "title_thumbnail_combo": {
+      "rule": "Title and thumbnail complement, not repeat",
+      "title_provides": "Keywords, context",
+      "thumbnail_provides": "Emotion, visual hook",
+      "example": {
+        "title": "Rain Sounds for Sleeping — 8 Hours",
+        "thumbnail": "Dark rain on window, soft blue tones, '8H' badge"
+      }
+    }
+  },
+  
+  "tag_strategy": {
+    "count": "8-15 tags per video",
+    "hierarchy": [
+      "Primary keyword (exact match)",
+      "Secondary keywords (variations)",
+      "Broad category tags",
+      "Long-tail specific tags"
+    ],
+    "sleep_tags": [
+      "sleep sounds",
+      "fall asleep",
+      "deep sleep",
+      "relaxation",
+      "ambient sounds",
+      "rain sounds",
+      "sleep music",
+      "meditation",
+      "calm",
+      "insomnia",
+      "bedtime",
+      "relaxing sounds",
+      "sleep aid",
+      "white noise",
+      "brown noise"
+    ],
+    "example_sets": {
+      "rain_video": ["rain sounds", "rain for sleeping", "gentle rain", "rain ambience", "sleep sounds", "fall asleep", "relaxation", "calm", "rain on window", "bedtime sounds"],
+      "history_video": ["history to sleep to", "ancient history", "history documentary", "sleep stories", "bedtime stories", "history for sleep", "relaxation", "calm", "learn while sleeping", "education"]
+    }
+  },
+  
+  "watch_time_optimization": {
+    "strategies": [
+      "Hook in first 30 seconds (state what they'll get)",
+      "No cliffhangers (sleep content must be drop-safe)",
+      "Consistent pacing (no sudden changes)",
+      "Black screen for visual (reduces stimulation)",
+      "Ambient bed under narration (35% volume)",
+      "Chapter markers (helps algorithm understand structure)"
+    ],
+    "sleep_specific": [
+      "Viewers fall asleep at 20-30 minutes (normal)",
+      "Average view duration is 3-4 hours",
+      "Repeat views are common (nightly usage)",
+      "Longer videos = more watch time per view",
+      "10-hour videos are the sweet spot"
+    ]
+  },
+  
+  "upload_strategy": {
+    "frequency": "2-3 videos per week for growth, 1 per week for maintenance",
+    "best_times": {
+      "primary": "Thursday 19:00-20:00 EST",
+      "reason": "2-3 hours before 9-11pm sleep window",
+      "avoid": "Friday (worst day in both studies)"
+    },
+    "playlist_strategy": [
+      "Create playlist per series (e.g., 'Grimm's Fairy Tales — Complete')",
+      "Add new videos to relevant playlists",
+      "Use playlist as 'season' structure",
+      "Cross-promote between playlists"
+    ]
+  },
+  
+  "sleep_niche_keywords": {
+    "high_volume": [
+      "rain sounds for sleeping",
+      "sleep sounds",
+      "brown noise",
+      "white noise for sleep",
+      "fall asleep",
+      "deep sleep music"
+    ],
+    "medium_volume": [
+      "history to sleep to",
+      "video game lore to sleep to",
+      "buddhism to sleep to",
+      "philosophy to sleep to",
+      "fairy tales for adults"
+    ],
+    "low_competition": [
+      "etymology to sleep to",
+      "periodic table to sleep to",
+      "train schedules for sleep",
+      "product specs for sleep",
+      "building codes for sleep"
+    ],
+    "long_tail": [
+      "rain sounds in a tent for sleeping",
+      "elder scrolls lore to fall asleep to",
+      "ancient egypt history for deep sleep",
+      "bunkers ambience for sleep",
+      "french fairy tales bedtime stories"
+    ]
+  },
+  
+  "freshness_strategy": {
+    "insight": "Sleep content thrives on repetition, not freshness. Same video watched nightly.",
+    "implication": "Don't chase trending topics. Build catalog that compounds.",
+    "upload_schedule": "Consistent, not frequent. 1/week is enough if quality is high.",
+    "catalog_growth": "Each new video adds to the library. Library compounds over time."
+  },
+  
+  "common_mistakes": [
+    "Keyword stuffing in title (kills CTR)",
+    "Thumbnail doesn't match title (confuses algorithm)",
+    "No chapters/timestamps (misses keyword signals)",
+    "Generic title (e.g., 'Sleep Video 23' instead of descriptive)",
+    "Ignoring Shorts (200B daily views, great for discovery)",
+    "Not adding to playlists (misses session watch time)",
+    "Upload frequency too high (audience fatigue)",
+    "No consistent visual style (brand confusion)"
+  ]
+}

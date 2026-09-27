@@ -1,0 +1,245 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-09-26",
+  "title": "Sleep Network SEO & Content Strategy",
+  
+  "thesis": {
+    "core": "Sleep is a location, not an achievement. Nobody clicks 'for sleep' — they click where they want to feel like they are.",
+    "five_laws": [
+      "Place, not topic. Every offering sells somewhere to BE.",
+      "Engines, not channels. Build six engines, get fifty channels.",
+      "Hosted beats abandoned. One recognizable voice, one goodnight ritual.",
+      "Difficulty is a lullaby. Tracking-load near zero is what sleeps people.",
+      "Data grows the organism. Every pilot emits tracked IDs; verdicts promote or kill."
+    ]
+  },
+  
+  "thumbnail_strategy": {
+    "global_base": {
+      "canvas": "#0B0B0E",
+      "line": "#F5F0E6",
+      "font": "Montserrat ExtraBold",
+      "style": "Hand-drawn, slow reveal, pencil/chalk line"
+    },
+    "per_shelf": {
+      "SPIRITUAL": {"accent": "#D4A94E", "symbol": "lotus, candle, sacred geometry"},
+      "ESOTERIC": {"accent": "#7A6FF0", "symbol": "tree of life, eye, spiral"},
+      "STORY": {"accent": "#C9A227", "symbol": "book, quill, candle"},
+      "MIND": {"accent": "#2E8B8B", "symbol": "atom, formula, brain"},
+      "MUSIC": {"accent": "#D4A94E", "symbol": "note, instrument, staff"},
+      "PLACE": {"accent": null, "symbol": "room, window, rain"},
+      "FRESH": {"accent": "#FF6B6B", "symbol": "sun, heart, globe"}
+    },
+    "rules": [
+      "Dark background (black or deep navy)",
+      "3-5 words max on thumbnail",
+      "Duration visible (3H, 8H, etc.)",
+      "No faces (faceless format)",
+      "Consistent style across channel",
+      "High contrast for mobile visibility",
+      "Single focal point, no clutter"
+    ],
+    "title_thumbnail_combo": {
+      "rule": "Complement, not repeat",
+      "title_gives": "Keywords, context, duration",
+      "thumbnail_gives": "Emotion, visual hook, accent color",
+      "examples": [
+        {"title": "Rain Sounds for Sleeping — 8 Hours", "thumbnail": "Dark rain on window, soft blue tones, '8H' badge"},
+        {"title": "The Snow Queen — Hans Christian Andersen", "thumbnail": "Hand-drawn ice crystal, gold accent, candle flame"},
+        {"title": "iPhone 16 Specs Read Slowly for Sleep", "thumbnail": "Minimal phone outline, blue accent, '47min' badge"}
+      ]
+    }
+  },
+  
+  "title_strategy": {
+    "sleep_formula": "[Topic] to [Fall Asleep/Sleep] To — [Duration or Descriptor]",
+    "examples_by_channel": {
+      "fairy_tales": "The Snow Queen — Hans Christian Andersen — Bedtime Stories for Adults",
+      "etymology": "Sleepy Words: The Origin of 'Salary' — Salt Money in Ancient Rome",
+      "agi_scenarios": "What Happens When AI Surpasses Us — Explained Slowly for Sleep",
+      "periodic_table": "Element 79: Gold — Found in the Veins of Dead Stars — Sleep Science",
+      "train_schedules": "14:47 London Paddington — Train Timetable Read Slowly for Sleep",
+      "phone_specs": "iPhone 16 Full Specifications — Read Slowly for Deep Sleep",
+      "fairy_tales": "Grimm's Fairy Tales: The Snow Queen — Bedtime Stories for Adults",
+      "good_news": "Tonight's Good News From Around the World — Fall Asleep to Kindness",
+      "anti_sleep": "Bunker Ambience — Safe Inside, Storm Outside — 8 Hours for Sleep"
+    },
+    "rules": [
+      "Primary keyword in first 30 characters",
+      "Under 60 characters total (mobile truncation)",
+      "Include duration for long-form (3H, 8H)",
+      "Use 'to sleep to' or 'to fall asleep to' as suffix",
+      "Power words: Gentle, Calm, Relaxing, Deep, Slowly",
+      "Avoid 'NO ADS' in title (save for description)"
+    ],
+    "keyword_patterns": [
+      "[topic] to sleep to",
+      "[topic] to fall asleep to",
+      "[topic] for sleep",
+      "[topic] explained slowly",
+      "[topic] for deep sleep",
+      "[topic] bedtime stories",
+      "[topic] ambient for sleep",
+      "[sound] for sleeping",
+      "[sound] sounds for sleep",
+      "sleep [topic]",
+      "[topic] read slowly",
+      "[topic] specifications for sleep"
+    ]
+  },
+  
+  "description_strategy": {
+    "structure": [
+      "Line 1-2: Hook + primary keyword (above fold)",
+      "Line 3-5: What the video contains",
+      "Line 6-10: Benefits (helps you sleep, relax, study)",
+      "Line 11-20: Timestamps/chapters",
+      "Line 21-30: Related videos and playlists",
+      "Line 31-40: Channel description + links",
+      "Line 41-50: Hashtags (3-5 max)"
+    ],
+    "sleep_keywords": [
+      "sleep", "fall asleep", "deep sleep", "relaxation", "meditation",
+      "ambient", "sounds for sleep", "bedtime", "insomnia relief", "calm",
+      "ASMR", "relaxing", "soothing", "gentle", "quiet"
+    ],
+    "hashtags": ["#sleep", "#fallasleep", "#relaxation", "#ambience", "#deeepsleep"],
+    "template": "Fall asleep to [topic] with this [duration] [format]. [Benefit 1]. [Benefit 2]. Perfect for [use case]. [Timestamps]. [Related videos]. #sleep #fallasleep"
+  },
+  
+  "tag_strategy": {
+    "count": "8-15 tags per video",
+    "hierarchy": [
+      "Primary keyword (exact match)",
+      "Secondary keywords (variations)",
+      "Broad category tags",
+      "Long-tail specific tags"
+    ],
+    "shelf_tags": {
+      "SPIRITUAL": ["spiritual sleep", "meditation", "sacred texts", "mysticism", "contemplation"],
+      "ESOTERIC": ["esoteric", "occult", "philosophy", "alchemy", "mysticism"],
+      "STORY": ["bedtime stories", "fairy tales", "folklore", "mythology", "storytelling"],
+      "MIND": ["learn while sleeping", "education", "science", "math", "etymology"],
+      "MUSIC": ["classical music", "piano", "orchestra", "music analysis", "deconstructed"],
+      "PLACE": ["ambient", "ambience", "room tone", "rain sounds", "city sounds"],
+      "FRESH": ["good news", "positive stories", "uplifting", "kindness", "hope"]
+    },
+    "video_examples": {
+      "fairy_tales": ["fairy tales", "bedtime stories", "grimm", "andersen", "sleep stories", "adult bedtime stories", "relaxation", "calm"],
+      "etymology": ["etymology", "word origins", "english words", "vocabulary", "sleep learning", "educational", "relaxation"],
+      "periodic_table": ["periodic table", "elements", "chemistry", "science", "sleep learning", "education"],
+      "agi_scenarios": ["AGI", "artificial intelligence", "future technology", "AI safety", "singularity", "sleep learning"]
+    }
+  },
+  
+  "watch_time_optimization": {
+    "sleep_advantage": "Sleep videos have 3-10 hour watch times. This is the #1 ranking signal.",
+    "strategies": [
+      "Hook in first 5 seconds (the 'first-five-seconds law')",
+      "No cliffhangers (sleep content must be drop-safe)",
+      "Consistent pacing (no sudden changes)",
+      "Black screen for visual (reduces stimulation)",
+      "Ambient bed under narration (35% volume)",
+      "Chapter markers (helps algorithm understand structure)"
+    ],
+    "metrics": {
+      "average_view_duration": "3-4 hours for 10-hour videos",
+      "completion_rate": "Low percentage but high absolute hours",
+      "repeat_views": "Nightly usage = massive repeat signal"
+    }
+  },
+  
+  "mechanisms": {
+    "description": "Content-desires that drive viewer behavior. Each channel must name its mechanism.",
+    "list": {
+      "completionism": "Finish together. Libraries, series, collections. Desire: endings.",
+      "place_habitation": "Be somewhere. Rooms, cities, bunkers. Desire: location, not topic.",
+      "difficulty_lullaby": "Surrender. Hard content, permission to stop tracking. Desire: permission.",
+      "hosted_company": "Not alone. A kind voice in the room. Desire: companionship.",
+      "ritual": "Same beats nightly. Predictability as safety. Desire: routine.",
+      "nostalgia": "Known things. Fairy tales, covers, recipes. Desire: the past, curated.",
+      "eavesdropping": "Overhear, uninvolved. Presence without stakes. Desire: passive engagement.",
+      "proportion": "Dwarf the worry. Cosmos, deep time. Desire: smallness as relief.",
+      "suggestion": "Dream incubation. Manifestation, daimon encounters. Desire: direction while drifting.",
+      "collection": "Complete the set. Elements, flags, constellations. Desire: full sets.",
+      "curiosity_gap": "One question gentle enough to sleep on. Etymology, lore. Desire: gentle inquiry.",
+      "contrast_comfort": "Safe inside. Bunker, storm outside. Desire: danger at a distance.",
+      "rhythm": "Predictable cadence. Timetables, numbers, lists. Desire: pattern without meaning.",
+      "sensory_memory": "Taste/smell. Recipes, teas, spices. Desire: comfort through senses.",
+      "procedural_calm": "Follow steps. Assembly, painting, trades. Desire: tasks that complete themselves.",
+      "absurd_delight": "Boring made joyful. Labels, warranties, legal. Desire: laughter too tired to laugh.",
+      "linguistic_drift": "Words as water. Etymology, roots, thesaurus. Desire: meaning dissolving into sound."
+    }
+  },
+  
+  "tags_system": {
+    "type_tags": [
+      "type-procedural",
+      "type-manual",
+      "type-lifecycle",
+      "type-reference",
+      "type-trade",
+      "type-essay",
+      "type-reading",
+      "type-library",
+      "type-journey",
+      "type-ambience",
+      "type-daily",
+      "type-evening",
+      "type-covers",
+      "type-deconstructed",
+      "type-generated"
+    ],
+    "mechanism_tags": [
+      "mech-completionist",
+      "mech-place",
+      "mech-difficulty",
+      "mech-hosted",
+      "mech-ritual",
+      "mech-nostalgia",
+      "mech-eavesdrop",
+      "mech-proportion",
+      "mech-suggestion",
+      "mech-collection",
+      "mech-curiosity",
+      "mech-contrast",
+      "mech-rhythm",
+      "mech-sensory",
+      "mech-procedural",
+      "mech-absurd",
+      "mech-linguistic"
+    ],
+    "rules": [
+      "New channel: >=1 type tag + >=1 mechanism tag",
+      "New tag: three channels sharing unnamed pattern",
+      "Tags resolve in analytics content-feature view"
+    ]
+  },
+  
+  "upload_strategy": {
+    "frequency": "2-3/week for growth, 1/week for maintenance",
+    "best_time": "Thursday 19:00-20:00 EST (2-3h before sleep window)",
+    "avoid": "Friday (worst day in studies)",
+    "playlist_structure": "One playlist per series. Add new videos. Cross-promote."
+  },
+  
+  "scoring": {
+    "pre_launch": "EV = readiness × shelf_band × moat × engine_economy × demand",
+    "shelf_bands": {"MUSIC": 1.2, "PLACE": 1.1, "MIND": 1.0, "STORY": 1.0, "SPIRITUAL": 0.9, "ESOTERIC": 0.9, "FRESH": 0.8},
+    "moat_tags": {"completionist": 0.20, "collection": 0.15, "hosted": 0.15, "place": 0.10, "ritual": 0.05},
+    "engine_economy": {"E4": 1.0, "E2/E5": 0.9, "E6": 0.8, "E3": 0.7, "E1": 0.6}
+  },
+  
+  "common_mistakes": [
+    "Keyword stuffing in title (kills CTR)",
+    "Thumbnail doesn't match title (confuses algorithm)",
+    "No chapters/timestamps (misses keyword signals)",
+    "Generic title (e.g., 'Sleep Video 23' instead of descriptive)",
+    "Ignoring Shorts (200B daily views)",
+    "Not adding to playlists (misses session watch time)",
+    "Upload frequency too high (audience fatigue)",
+    "No consistent visual style (brand confusion)",
+    "Using faces in thumbnails (breaks faceless format)",
+    "Adding music to narration (distracts from sleep)"
+  ]
+}
