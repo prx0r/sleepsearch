@@ -1,0 +1,237 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-09-26",
+  "sources": {
+    "gutenberg": {
+      "name": "Project Gutenberg",
+      "url": "https://www.gutenberg.org",
+      "license": "PD",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": null,
+      "content": ["fairy_tales", "philosophy", "scifi", "history", "letters", "recipes"],
+      "api": null,
+      "notes": "79,000+ books, all PD in USA"
+    },
+    "sacred_texts": {
+      "name": "Sacred Texts",
+      "url": "https://www.sacred-texts.com",
+      "license": "PD",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": null,
+      "content": ["mythology", "folklore", "esoteric", "philosophy", "religion"],
+      "api": null,
+      "notes": "1,700+ books on religion, mythology, folklore"
+    },
+    "etymonline": {
+      "name": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com",
+      "license": "proprietary",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": "be_polite",
+      "content": ["etymology", "word_origins", "linguistics"],
+      "api": null,
+      "notes": "60,000+ word origins, web scraping only"
+    },
+    "wiktionary": {
+      "name": "Wiktionary",
+      "url": "https://en.wiktionary.org",
+      "license": "CC BY-SA",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": "be_polite",
+      "content": ["etymology", "definitions", "pronunciation", "translations"],
+      "api": "https://en.wiktionary.org/api/rest_v1/",
+      "notes": "Free API, structured data"
+    },
+    "dictionaryapi": {
+      "name": "Free Dictionary API",
+      "url": "https://dictionaryapi.dev",
+      "license": "CC BY-SA",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": null,
+      "content": ["definitions", "pronunciation", "synonyms", "antonyms"],
+      "api": "https://api.dictionaryapi.dev/api/v2/",
+      "notes": "No auth required, unlimited"
+    },
+    "pubchem": {
+      "name": "PubChem",
+      "url": "https://pubchem.ncbi.nlm.nih.gov",
+      "license": "public_domain",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": "5 requests/second",
+      "content": ["elements", "compounds", "chemical_data"],
+      "api": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/",
+      "notes": "NIH, comprehensive chemical database"
+    },
+    "nasa": {
+      "name": "NASA Open APIs",
+      "url": "https://api.nasa.gov",
+      "license": "public_domain",
+      "cost": "free",
+      "auth_required": true,
+      "rate_limit": "1000 requests/hour",
+      "content": ["astronomy", "apod", "exoplanets", "asteroids", "space_weather"],
+      "api": "https://api.nasa.gov",
+      "notes": "Free API key, multiple endpoints"
+    },
+    "freesound": {
+      "name": "Freesound",
+      "url": "https://freesound.org",
+      "license": "CC0/CC-BY",
+      "cost": "free",
+      "auth_required": true,
+      "rate_limit": "60 requests/minute",
+      "content": ["ambient_sounds", "nature", "city", "rain", "thunder"],
+      "api": "https://freesound.org/apiv2/",
+      "notes": "500,000+ sounds, free API key"
+    },
+    "freenewsapi": {
+      "name": "FreeNewsApi",
+      "url": "https://freenewsapi.io",
+      "license": "proprietary",
+      "cost": "free",
+      "auth_required": true,
+      "rate_limit": "5000 requests/day",
+      "content": ["news", "positive_news", "global_news"],
+      "api": "https://freenewsapi.com/v1/",
+      "notes": "5,000 free requests/day"
+    },
+    "goodnewsnetwork": {
+      "name": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org",
+      "license": "proprietary",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": null,
+      "content": ["positive_news", "uplifting_stories"],
+      "api": null,
+      "notes": "RSS feed available"
+    },
+    "historylabs": {
+      "name": "HistoryLabs Events API",
+      "url": "https://events.historylabs.io",
+      "license": "MIT",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": null,
+      "content": ["historical_events", "timelines"],
+      "api": "https://events.historylabs.io/",
+      "notes": "Wikipedia events, no auth"
+    },
+    "chronicling_america": {
+      "name": "Chronicling America",
+      "url": "https://chroniclingamerica.loc.gov",
+      "license": "public_domain",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": null,
+      "content": ["historic_newspapers", "american_history"],
+      "api": "https://chroniclingamerica.loc.gov/",
+      "notes": "Library of Congress, 20M+ pages"
+    },
+    "oeis": {
+      "name": "OEIS",
+      "url": "https://oeis.org",
+      "license": "CC BY-SA",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": "be_polite",
+      "content": ["integer_sequences", "mathematics"],
+      "api": "https://oeis.org/search",
+      "notes": "Online Encyclopedia of Integer Sequences"
+    },
+    "lichess": {
+      "name": "Lichess",
+      "url": "https://lichess.org",
+      "license": "CC BY-SA",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": null,
+      "content": ["chess", "openings", "games"],
+      "api": "https://explorer.lichess.ovh/",
+      "notes": "Free chess API"
+    },
+    "openmeteo": {
+      "name": "Open-Meteo",
+      "url": "https://open-meteo.com",
+      "license": "CC BY-SA",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": "10000 requests/day",
+      "content": ["weather", "forecast", "climate"],
+      "api": "https://api.open-meteo.com/",
+      "notes": "Free weather API"
+    },
+    "skynet_countdown": {
+      "name": "Skynet Countdown",
+      "url": "https://skynetcountdown.com",
+      "license": "free",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": null,
+      "content": ["agi_predictions", "ai_timeline"],
+      "api": null,
+      "notes": "Expert AGI predictions tracker"
+    },
+    "open_product_data": {
+      "name": "OpenProductData",
+      "url": "https://openproductdata.org",
+      "license": "free",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": "60 requests/minute",
+      "content": ["product_specs", "sustainability", "materials"],
+      "api": "https://openproductdata.org/api/v1/",
+      "notes": "Digital Product Passport data"
+    },
+    "music21": {
+      "name": "music21 Corpus",
+      "url": "https://web.mit.edu/music21/",
+      "license": "BSD",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": null,
+      "content": ["music", "scores", "classical"],
+      "api": null,
+      "notes": "3,194 PD pieces bundled"
+    },
+    "skynet_countdown": {
+      "name": "Skynet Countdown",
+      "url": "https://skynetcountdown.com",
+      "license": "free",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": null,
+      "content": ["agi_predictions", "ai_timeline"],
+      "api": null,
+      "notes": "Expert AGI predictions tracker"
+    },
+    "metaculus": {
+      "name": "Metaculus",
+      "url": "https://www.metaculus.com",
+      "license": "free",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": null,
+      "content": ["predictions", "forecasting", "agi"],
+      "api": "https://www.metaculus.com/api/",
+      "notes": "Crowdsourced predictions"
+    },
+    "gdelt": {
+      "name": "GDELT",
+      "url": "https://www.gdeltproject.org",
+      "license": "free",
+      "cost": "free",
+      "auth_required": false,
+      "rate_limit": null,
+      "content": ["global_news", "events", "media"],
+      "api": "https://api.gdeltproject.org/api/v2/",
+      "notes": "1.6 billion location mentions"
+    }
+  }
+}
